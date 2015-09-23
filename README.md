@@ -1,5 +1,7 @@
 Dynamic Quiz Application
 
+Live preview at: http://rameezahmed.github.io/Quiz_App/
+
 ![alt tag](https://raw.githubusercontent.com/RameezAhmed/Quiz_App/master/Quiz_App-pic.png)
 
 This is a project I developed using HTML, CSS, JavaScript, jQuery, PHP and MySQL.
